@@ -10,6 +10,7 @@ For more details about the assignment, the PDF file `slide_esami.pdf` is include
 
 This project requires `ollama`, a local LLM (Language Model) server. 
 Download `ollama` from the official site:
+
 https://ollama.com/download/windows
 
 
