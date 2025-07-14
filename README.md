@@ -13,6 +13,7 @@ Download `ollama` from the official site:
 
 https://ollama.com/download/windows
 
+
 Then pull the model needed to run the examples (Gemma3) with:
 
 ```sh
@@ -22,6 +23,7 @@ ollama pull gemma3:1b
 ### uv (Dependency Manager)
 
 You need to install `uv`. You can find all the information about its installation here: 
+
 https://docs.astral.sh/uv/#installation
 
 ### Create Python virtual environment
