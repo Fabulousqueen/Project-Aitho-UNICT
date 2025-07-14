@@ -1,5 +1,5 @@
 from enum import StrEnum
-
+from from abc import ABC, abstractmethod
 from pydantic import BaseModel 
 
 class TextType(StrEnum):
@@ -19,10 +19,11 @@ class TargetStyle(StrEnum):
     bureaucratic = "bureaucratic"
     direct = "direct"
 
-class Text(BaseModel):
+class Text(BaseModel, ABC):
     type_text:TextType
     content: str
 
+    @abstractmethod
     def __str__(self):
         pass
 
