@@ -10,6 +10,7 @@ For more details about the assignment, the PDF file `slide_esami.pdf` is include
 
 This project requires `ollama`, a local LLM (Language Model) server. 
 Download `ollama` from the official site:
+
 https://ollama.com/download/windows
 
 Then pull the model needed to run the examples (Gemma3) with:
@@ -20,7 +21,8 @@ ollama pull gemma3:1b
 
 ### uv (Dependency Manager)
 
-You need to install `uv`. You can find all the information about its installation here: https://docs.astral.sh/uv/#installation
+You need to install `uv`. You can find all the information about its installation here: 
+https://docs.astral.sh/uv/#installation
 
 ### Create Python virtual environment
 
