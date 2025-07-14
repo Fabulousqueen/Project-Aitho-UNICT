@@ -51,12 +51,12 @@ There are two versions of the program:
 - `auto_main`: the *program automatically chooses* the text type, its content, and the style in which it should be rewritten. It is executed with the command:
 
 ```sh
-uv run auto_main
+uv run auto_main.py
 ``` 
 
 - `human_main`: the *user manually inputs* the text to be rewritten, specifies its type, and chooses the desired style for reframing. It is executed with the command:
 
 ```sh
-uv run human_main
+uv run human_main.py
 ```
 
