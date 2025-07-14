@@ -1,6 +1,6 @@
 # Project-Aitho-UNICT
 
-This repository contains the implementation of the **Track 2:*"AI agent for creative rewriting and reframing"*** , proposed as the final assignment for the *"Intelligent Agents and Machine Learning"* seminar, held by the **Aitho** group at the Department of Mathematics and Computer Science of University of Catania
+This repository contains the implementation of the **Track 2:*"AI agent for creative rewriting and reframing"***, proposed as the final assignment for the *"Intelligent Agents and Machine Learning"* seminar, held by the **Aitho** group at the Department of Mathematics and Computer Science of University of Catania.
 
 For more details about the assignment, the PDF file `slide_esami.pdf` is included in the repository (Italian only).
 
