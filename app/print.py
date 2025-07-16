@@ -8,7 +8,7 @@ class Printer(Protocol):
         pass
     def print_original(self, original_text):
         pass
-    def print_reframed(self, raframed_text):
+    def print_reframed(self, reframed_text):
         pass
 
 class VerboseTextPrinter(BaseModel):
